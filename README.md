@@ -2,7 +2,7 @@
 
 Este é um projeto criado para aprimorar as habilidades com Tailwind CSS. Desenvolvido com Next.js, é uma oportunidade para praticar e dominar o uso dessa ferramenta de estilização, criando interfaces modernas e responsivas.
 
-##### Deploy: <a href="" target="_blank">Acessar demo</a>
+##### Deploy: <a href="https://tailwind-next-mu-brown.vercel.app/" target="_blank">Acessar demo</a>
 
 ## 🎨 Preview
 
